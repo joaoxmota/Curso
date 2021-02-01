@@ -3,4 +3,4 @@ Nesse repositório contém os projetos do curso Desenvolvimento Web Completo 202
 Os projetos são de autoria dos instrutores:Jorge Sant Ana e Jamilton Damasceno.
 Como exercícios práticos, eles tem esses projetos, onde podemos praticar HTML5, CSS3, JavaScript, Bootstrap e muito mais!
 
-Projeto Finans: É um projeto, onde criamos uma home, responsiva, utilizando HTML5, CSS3, JavaScript e Bootstrap.
+Projeto Site_finans: É um projeto, onde é construida uma home-page, responsiva, utilizando HTML5, CSS3, JavaScript e Bootstrap.
